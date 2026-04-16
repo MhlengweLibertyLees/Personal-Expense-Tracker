@@ -117,7 +117,7 @@
                 <label for="categoryId" class="form-label">Category</label>
                 <select class="form-select" id="categoryId" name="categoryId" required>
                   <option value="">-- Select Category --</option>
-                  <!-- Static category options; adjust them to match your database -->
+                  <!-- category options -->
                   <option value="1">Food</option>
                   <option value="2">Transportation</option>
                   <option value="3">Entertainment</option>
