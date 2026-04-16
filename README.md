@@ -71,4 +71,4 @@ Enables users to edit or delete any expense listed.
 2. Add Expense: Users navigate to the add expense page to submit new expenses. The form captures details such as amount, date, description, and category.
 3. Update Expense: For any expense record, users can click the "Edit" button, which brings them to an update form where they can modify the details.
 4. Delete Expense: Users can remove expense records by clicking the "Delete" button, after which a confirmation prompt ensures accidental deletions are minimized.
-5. View All Expenses: A dedicated view lets users see all expense records from the database, making it easy to manage records that aren’t part of the recent list on the dashboard.
+5. View All Expenses: A dedicated view lets users see all expense records from the database, making it easy to manage records that aren’t part of the recent list on the dashboard...
